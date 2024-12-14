@@ -80,7 +80,7 @@ function Login() {
           </div>
         </div>
         <div className='lgnd1' style={{ width: "50%", height: "100vh", backgroundColor: "black", textAlign: 'center', display: "flex", justifyContent: 'center', alignItems: "center", color: "white" }}>
-          <h2 style={{ fontFamily: "Tilt Prism", textShadow: "5px 5px 10px orange" }}><label style={{ fontSize: 67 }}>KNOWLEDGE LAND </label> <br /> VIRTUAL LEARNING PLATFORM</h2>
+          <h2 style={{ fontFamily: "Tilt Prism", textShadow: "5px 5px 10px orange" }}><label style={{ fontSize: 67 }}>Online Teaching Platform </label> <br /> VIRTUAL LEARNING PLATFORM</h2>
         </div>
       </div>
     </div>
